@@ -1,6 +1,7 @@
-# Technical Skills Portfolio
+# Wing Kee Winnie Kwok's Portfolio
 #### Technical skills: Python, Java, SQL, R-studio
 
-## Projects
-### xxxx
+## Technical Projects
+### Project 1 - Uncovering Why Customers Leave: A Data-Driven Churn Diagnostic for Retail Banking
+
 

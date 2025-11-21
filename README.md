@@ -9,7 +9,7 @@
 
 [View the Project](https://github.com/wingkeewinniekwok-max/Project-1)
 
-### Project 2 - Building a banking system
+### Project 2 - Unlocking Flight Performance: A Data-Driven Analysis of Delays, Cancellations, and Operational Improvements
 #### - Designed and built an interactive Power BI dashboard to analyze flight delays and cancellations, integrating multiple datasets (flights, airlines, airports, cancellation codes) into a structured star-schema model.
 #### - Conducted in-depth data exploration and performance analysis, uncovering key insights such as delay frequency, airline-specific issues, weather-driven cancellations, and weekday patterns.
 #### - Translated complex data into clear visual narratives and business recommendations, demonstrating the ability to turn raw data into actionable insights for operational decision-making.
